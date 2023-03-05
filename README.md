@@ -1,0 +1,1 @@
+currently getting a better understanding of how to use the terminal and more foundation projects that are made.
